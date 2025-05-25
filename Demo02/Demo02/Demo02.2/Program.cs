@@ -26,6 +26,7 @@ namespace Demo02._2
             employeeClass.Value = e;
 
             Console.WriteLine("Love you pac pac");
+            Console.WriteLine("Love Love Love");
         }
     }
 }

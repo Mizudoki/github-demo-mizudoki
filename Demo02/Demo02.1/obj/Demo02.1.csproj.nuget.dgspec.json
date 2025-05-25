@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ky 5\\PRN212\\study\\Demo02\\Demo02.1\\Demo02.1.csproj": {}
+    "E:\\git\\github-demo-mizudoki\\Demo02\\Demo02.1\\Demo02.1.csproj": {}
   },
   "projects": {
-    "E:\\ky 5\\PRN212\\study\\Demo02\\Demo02.1\\Demo02.1.csproj": {
+    "E:\\git\\github-demo-mizudoki\\Demo02\\Demo02.1\\Demo02.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ky 5\\PRN212\\study\\Demo02\\Demo02.1\\Demo02.1.csproj",
+        "projectUniqueName": "E:\\git\\github-demo-mizudoki\\Demo02\\Demo02.1\\Demo02.1.csproj",
         "projectName": "Demo02.1",
-        "projectPath": "E:\\ky 5\\PRN212\\study\\Demo02\\Demo02.1\\Demo02.1.csproj",
+        "projectPath": "E:\\git\\github-demo-mizudoki\\Demo02\\Demo02.1\\Demo02.1.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\ky 5\\PRN212\\study\\Demo02\\Demo02.1\\obj\\",
+        "outputPath": "E:\\git\\github-demo-mizudoki\\Demo02\\Demo02.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\download\\dotNet\\NuGetPackages"
